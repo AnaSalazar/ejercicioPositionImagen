@@ -1,0 +1,19 @@
+h1 {
+  font-family: "Exo 2", sans-serif;
+  font-size: 20px;
+}
+
+#rayita {
+  border-bottom: 2px solid black;
+  width: 170px;
+}
+
+.secciones {
+  text-align: center;
+}
+
+.coders {
+  margin: 45px;
+  width: 150px;
+  height: 150px;
+}
