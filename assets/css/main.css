@@ -1,5 +1,5 @@
-h1 {
-  font-family: "Exo 2", sans-serif;
+* {
+  font-family: "Helvetica", sans-serif;
   font-size: 20px;
 }
 
@@ -12,8 +12,22 @@ h1 {
   text-align: center;
 }
 
+.espacioCoders {
+  width: 150px;
+  position: relative;
+  display: inline-block;
+  margin: 30px;
+}
+
 .coders {
-  margin: 45px;
   width: 150px;
   height: 150px;
+}
+
+.bottomRight {
+    position: absolute;
+    bottom: 0px;
+    right: 16px;
+    color: #DA81F5;
+    font-size: 18px;
 }
